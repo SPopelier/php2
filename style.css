@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/**************************body************************/
+body {
+    font-family: "Crafty Girls", cursive;
+    background-color: #FEBFD2;
+    color: #F9429E;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+/**************************formulaire************************/
+form {
+    text-align: center;
+    padding: 20px;
+}
+/**************************header************************/
+header {
+    background-color: #F9429E;
+    color: #fff;
+}
+header a {
+    color: #FEE7F0;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #C4698F;
+}
+
+/**************************footer************************/
+footer {
+    background-color: #F9429E;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+footer p {
+    margin: 0;
+    color: #FEE7F0;
+}
+
+footer a {
+    color: #FEE7F0;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #C4698F;
+}
